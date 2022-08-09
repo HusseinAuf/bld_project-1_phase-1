@@ -134,7 +134,7 @@ body {
     z-index: 200;
     position: relative;
     height: 400px;
-    max-width: 1200px;
+    max-width: 85%;
     margin: auto;
     background-color: rgb(242, 242, 242);
     display: flex;
